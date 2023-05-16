@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/junior-gate-test/static/css/main.acd7d302.css",
+    "main.js": "/junior-gate-test/static/js/main.24e40272.js",
+    "static/js/787.ee65668c.chunk.js": "/junior-gate-test/static/js/787.ee65668c.chunk.js",
+    "static/media/product-image.svg": "/junior-gate-test/static/media/product-image.919e20eb07534917e2900fed836cbe1f.svg",
+    "index.html": "/junior-gate-test/index.html",
+    "main.acd7d302.css.map": "/junior-gate-test/static/css/main.acd7d302.css.map",
+    "main.24e40272.js.map": "/junior-gate-test/static/js/main.24e40272.js.map",
+    "787.ee65668c.chunk.js.map": "/junior-gate-test/static/js/787.ee65668c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acd7d302.css",
+    "static/js/main.24e40272.js"
+  ]
+}
