@@ -1,0 +1,10 @@
+@import "src/assets/utils/utils";
+
+.app_wrapper {
+  height: 100vh;
+  @include flexBox(0, column, center, center);
+}
+
+p {
+  margin: 0;
+}

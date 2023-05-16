@@ -1,0 +1,23 @@
+@mixin regularFont($font: 14px, $lh: 20px) {
+  font-family: Roboto, sans-serif;
+  font-size: $font;
+  line-height: $lh;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+@mixin mediumFont($font: 14px, $lh: 20px) {
+  font-family: Roboto, sans-serif;
+  font-size: $font;
+  line-height: $lh;
+  letter-spacing: 0;
+  font-weight: 500;
+}
+
+@mixin boldFont($font: 14px, $lh: 20px) {
+  font-family: Roboto, sans-serif;
+  font-size: $font;
+  line-height: $lh;
+  letter-spacing: 0;
+  font-weight: 700;
+}
