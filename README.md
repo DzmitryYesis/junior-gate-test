@@ -27,4 +27,4 @@
 - #### react / react-dom
 - #### eslint prettier
 
-- ### [Result](https://dzmitryyesis.github.io/CodiblyTest)
+- ### [Result](https://dzmitryyesis.github.io/junior-gate-test/)
